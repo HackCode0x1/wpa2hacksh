@@ -36,9 +36,6 @@ echo -e $r"        Verison$c::::::::::$r["1.0"]"
 echo -e $g "       01010101010101010101"
 echo -e $g "       Start Attack Wpa2 > Using STRIK METHOD >> 010101"
 echo -e $c "       Run PMKID Attack On AP %100 " 
-echo -e $r "       FB: /ahmedbalaha65 | SOund:balahahckrx | iNsTA:ahmed.balaha_" 
-echo -e $g "       youtube: https://www.youtube.com/channel/UC5ugxK_fPwSFHZSUk4Mx-aw"
-echo -e $g "       git: https://github.com/HACkCrX"
 echo -e $g "       Run Scripts To Crack Wpa2 With HMLASH Cracking USing Dev METHOD </>"
 sleep 4
 echo -e $res
